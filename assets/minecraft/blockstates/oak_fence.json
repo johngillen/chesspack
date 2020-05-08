@@ -1,0 +1,17 @@
+{
+    "multipart": [
+        {   "apply": { "model": "block/oak_fence_post" }},
+        {   "when": { "north": "true" },
+            "apply": { "model": "block/oak_fence_post" }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "block/oak_fence_post" }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "block/oak_fence_post" }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "block/oak_fence_post" }
+        }
+    ]
+}

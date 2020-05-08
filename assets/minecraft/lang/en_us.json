@@ -1,0 +1,19 @@
+{
+  "language.name": "English",
+  "language.region": "United States",
+  
+  "block.minecraft.cobblestone_slab": "Black Bishop",
+  "block.minecraft.oak_slab": "White Bishop",
+  "block.minecraft.oak_stairs": "White Knight",
+  "block.minecraft.crafting_table": "White King",
+  "block.minecraft.furnace": "Black King",
+  "block.minecraft.blast_furnace": "Black Queen",
+  "block.minecraft.cobblestone_stairs": "Black Knight",
+  "block.minecraft.stone_button": "Black Pawn",
+  "block.minecraft.oak_button": "White Pawn",
+  "block.minecraft.oak_fence": "White Rook",
+  "block.minecraft.cobblestone_wall": "Black Rook",
+  "container.crafting": "White King",
+  "container.furnace": "Black King",
+  "block.minecraft.loom": "White Queen"
+}

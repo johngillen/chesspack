@@ -1,0 +1,19 @@
+{
+    "multipart": [
+        {   "when": { "up": "true" },
+            "apply": { "model": "block/cobblestone_wall_post" }
+        },
+        {   "when": { "north": "true" },
+            "apply": { "model": "block/cobblestone_wall_post" }
+        },
+        {   "when": { "east": "true" },
+            "apply": { "model": "block/cobblestone_wall_post" }
+        },
+        {   "when": { "south": "true" },
+            "apply": { "model": "block/cobblestone_wall_post" }
+        },
+        {   "when": { "west": "true" },
+            "apply": { "model": "block/cobblestone_wall_post" }
+        }
+    ]
+}
