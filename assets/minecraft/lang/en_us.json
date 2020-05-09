@@ -13,7 +13,5 @@
   "block.minecraft.oak_button": "White Pawn",
   "block.minecraft.oak_fence": "White Rook",
   "block.minecraft.cobblestone_wall": "Black Rook",
-  "container.crafting": "White King",
-  "container.furnace": "Black King",
   "block.minecraft.loom": "White Queen"
 }
